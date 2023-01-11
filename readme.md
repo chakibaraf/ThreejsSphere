@@ -11,4 +11,4 @@ install manipulation :
 
 - git clone 
 
-- npm i 
+lancer le projet 
